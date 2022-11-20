@@ -1,0 +1,10 @@
+{
+  "dataBaseUrl": "jdbc:h2:./test",
+  "initDataBase": "./sql_commands/1_init_db.sql",
+  "insertDataBase": "./sql_commands/2_populate_db.sql",
+  "findMaxSalaryWorker": "./sql_commands/3_find_max_salary_worker.sql",
+  "findMaxProjectClient": "./sql_commands/4_find_max_projects_client.sql",
+  "findLongestProject": "./sql_commands/5_find_longest_project.sql",
+  "findYoungestEldestWorkers": "./sql_commands/6_find_youngest_eldest_workers.sql",
+  "printProjectPrices": "./sql_commands/7_print_project_prices.sql"
+}
